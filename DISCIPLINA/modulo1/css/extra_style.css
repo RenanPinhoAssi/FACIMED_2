@@ -1,0 +1,156 @@
+.disciplina {
+  padding: 10px;
+  width: 440px;
+}
+
+.disciplina h1 {
+  color: #fff;
+  font-weight: 100;
+  margin: 0px;
+  font-size: 33px;
+}
+
+.unidade {
+  padding: 10px;
+}
+
+.unidade h2 {
+  color: #fff;
+  font-weight: bold;
+  margin: 0px;
+}
+
+body,
+html,
+.centraliza {
+  height: 100%;
+  /*    overflow: hidden;*/
+}
+
+.container.fc {
+  background: url("../img/fundo-capa2.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100%;
+  position: absolute;
+  margin-top: 0px;
+  background-color: #fff;
+}
+
+.title-unit {
+  position: absolute;
+  bottom: 52%;
+  left: 5%;
+}
+
+#mestre{
+    background: #fff;
+}
+
+
+@media screen and (max-width: 830px) {
+  #mestre {
+    top: 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #mestre {
+    top: -106px;
+  }
+  .disciplina {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  #mestre {
+    top: -150px;
+  }
+}
+
+.popup {
+  width: 45em;
+}
+
+.popup-content {
+  display: inline-flex;
+}
+
+.popup-content > img {
+  width: 50%;
+  height: 50%;
+}
+
+.popup-content h2 {
+  margin-top: 1.5em;
+  margin-left: 8%;
+}
+
+.popup-content p {
+  margin-left: 6%;
+}
+
+.modal-content {
+  display: none;
+}
+
+.content-area,
+.select-area {
+  height: 100%;
+}
+
+.select-area {
+  position: relative;
+}
+
+.select-item {
+  font-family: Century Gothic;
+  display: table;
+  position: absolute;
+  text-align: center;
+  transition: all 0.5s;
+  width: 3em;
+  height: 3em;
+  background-color: #003d58;
+  -webkit-border-radius: 2em;
+  -moz-border-radius: 2em;
+  border-radius: 2em;
+  animation: shadow-pulse 1s infinite;
+}
+
+.select-item:hover {
+  transform: scale(1.15);
+}
+
+.select-item a {
+  display: table-cell;
+  vertical-align: middle;
+  color: #fff;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+@media screen and (max-width: 500px) {
+  .popup {
+    width: 100%;
+  }
+}
+
+.tabela:not(.regular-table) td:first-of-type {
+  background-color: #d4d4d4;
+}
+
+.tu,
+.iniciar-estudos:not(.regular),
+.titulo02:not(.regular)
+{
+  text-transform: lowercase;
+}
+
+.tu::first-letter,
+.iniciar-estudos:not(.regular)::first-letter,
+.titulo02:not(.regular)::first-letter
+{
+  text-transform: uppercase;
+}

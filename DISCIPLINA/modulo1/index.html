@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta charset="utf-8" />
+  <!-- Alterar o nome do curso -->
+  <title>FACIMED - Contabilidade Básica</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+  <!-- Estilos -->
+  <link rel='stylesheet' href='../player/css/boots-bones.css' type='text/css' media='all' />
+  <link rel='stylesheet' href='../player/css/jquery-ui.min.css' type='text/css' media='all' />  
+  <link rel="stylesheet" href="../player/css/estilo.css" type="text/css">
+  <link rel='stylesheet' href='../player/css/animate.css' type='text/css' media='all' />
+  <!-- Para suporte dos IE6-8 aos elementos HTML5 -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div class="mainStage">
+
+  <!-- container-titulo -->
+  <div class="container-titulo">
+    <div class="titulo">
+        <div class="titulo-h">
+          <h1>Unidade 1</h1>
+          <h2>Contabilidade Básica</h2>
+        </div>
+    </div>
+  </div>
+  <!--/container-titulo -->
+
+  <!-- container -->
+  <div class="container">
+    <div id="mestre">
+      <div id="loader">
+        <div class="load">
+          <i class="fa fa-spinner fa-spin" aria-hidden="true"></i>
+        </div>
+      </div>
+      <div id="slide0" class="palco" style="margin:0"></div>  
+      <div id="slide1" class="palco"></div>
+      <div id="slide2" class="palco"></div>
+      <div id="slide3" class="palco"></div>
+      <div id="slide4" class="palco"></div>
+      <div id="slide5" class="palco"></div>
+      <div id="slide6" class="palco"></div>
+      <div id="slide7" class="palco"></div>
+
+      <div id="menu" class="palco2"> </div>
+    </div>
+  </div>
+  <!-- /container -->
+  
+  <!-- foot-container -->
+  <div class="foot-container">
+     <div class="foot">
+      <div class="menu-cenas-footer" style="display: none;">
+
+        <h3>Unidade 1 - Contabilidade Básica <img src="../player/img/close.png" onclick="toggleMenu()"/></h3>
+        <ul>
+            <li><a href="javascript:vai(0)">Início</a></li>
+            <li><a href="javascript:vai(1)">Objetivo geral da unidade | Objetivos de aprendizagem</a></li>
+            <li><a href="javascript:vai(2)">Apresentação da unidade</a></li>
+            <li><a href="javascript:vai(3)">Histórico da Contabilidade</a></li>
+            <li><a href="javascript:vai(4)">Patrimônio</a></li>
+            <li><a href="javascript:vai(5)">Legislação aplicada na Contabilidade</a></li>
+            <li><a href="javascript:vai(6)">Síntese</a></li>
+            <li><a href="javascript:vai(7)">Referências</a></li>
+            
+        </ul> 
+      </div>
+      
+      <span class="menu" style="cursor: pointer; position: relative" title="">
+        <img id="showmenu" src="../player/img/botao-menu.png"" />
+      </span>
+      <div class="infoslide-container">
+        <div class="infoslide">
+          Tela <span id="sl-at"> </span> de <span id="sl-tot"> </span>
+        </div>
+      </div>
+      <div class="controles">
+        <a class="footPrev" title="" href="javascript:controlador(2);">
+          <img src="../player/img/botao-prox.png" />
+        </a>
+        <a class="footProx" title="" href="javascript:controlador(1);">
+          <img src="../player/img/botao-prox.png" />
+        </a>
+       </div>
+      </div>
+  </div>
+  <!--/foot-container -->
+
+  <div class="overlay"></div>
+
+  <!-- Javascripts ================================================== -->
+  <!-- Alterar a variável com o nome do Curso e do Módulo -->
+	<script>$nome = 'ibm00X-ultimaVisitaMod1';</script>	
+  <script src="../player/js/jquery.js"></script>
+  <script src="../player/js/jquery-ui.min.js"></script>
+  <script src="../player/js/jquery.fancybox.pack.js"></script>
+  <script src="../player/js/plugin.js"></script>
+  <script src="../player/js/acoes.js"></script>
+</div>
+</body>
+</html>
