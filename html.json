@@ -1,0 +1,358 @@
+{
+	"recurso_lista_FACIMED": {
+		"prefix": "recurso_lista_FACIMED",
+		"body": [
+			"  <ul>\r",
+			"    <li>Conceito, objeto, finalidade e campo de atuação da Contabilidade.</li>\r",
+			"    <li>Legislação aplicada na Contabilidade.</li>\r",
+			"    <li>Regime de caixa e de competência.</li>\r",
+			"    <li>Escrituração contábil.</li>\r",
+			"  </ul>"
+		],
+		"description": "recurso_lista_FACIMED"
+	},
+	"recurso_imagem_FACIMED": {
+		"prefix": "recurso_imagem_FACIMED",
+		"body": [
+			"<div class=\"figurafull\" style=\"text-align: center;\">\r",
+			"    <p>\r",
+			"      Figura 1.2: Os usuários da Contabilidade são pessoas que precisarão dos\r",
+			"      dados fornecidos por ela para algum propósito\r",
+			"    </p>\r",
+			"    <img src=\"img/fig1.2.jpg\" />\r",
+			"    <p>Fonte: Plataforma Deduca (2018).</p>\r",
+			"  </div>"
+		],
+		"description": "recurso_imagem_FACIMED"
+	},
+	"recurso_saiba_mais_FACIMED": {
+		"prefix": "recurso_saiba_mais_FACIMED",
+		"body": [
+			" <a href=\"#popup-tela3\" class=\"efeito_fade fancybox saibamais\"></a>\r",
+			"\r",
+			"  <div class=\"popup\" id=\"popup-tela3\">\r",
+			"    <h3>Saiba mais</h3>\r",
+			"    <p>\r",
+			"      A Contabilidade define seus usuários em internos e externos. Veja, a\r",
+			"      seguir, a que se referem essas distinções. Os usuários internos são\r",
+			"      administradores – usam informações da Contabilidade para a tomada de\r",
+			"      decisão – e acionistas e/ou sócios controladores – usam relatórios\r",
+			"      contábeis para deter informações referentes à lucratividade e à\r",
+			"      rentabilidade. Os usuários externos são acionistas e/ou sócios não\r",
+			"      controladores, bancos, fornecedores, Governo, entre outros. Os bancos\r",
+			"      exigem as informações contábeis referentes às questões financeiras, pois\r",
+			"      afetam a lucratividade e a segurança do patrimônio. Ao passo que o Governo\r",
+			"      faz uso das informações para tributar, cobrar impostos e regulamentar os\r",
+			"      diferentes setores.\r",
+			"    </p>\r",
+			"  </div>\r",
+			""
+		],
+		"description": "recurso_saiba_mais_FACIMED"
+	},
+	"recurso_table_FACIMED": {
+		"prefix": "recurso_table_FACIMED",
+		"body": [
+			"   <p class=\"legenda\">Quadro 1.1: Estrutura do Balanço Patrimonial</p>\r",
+			"        <table class=\"table\" style=\"display: table;\">\r",
+			"            <tr>\r",
+			"                <th>Ativo</th>\r",
+			"                <th>Passivo</th>\r",
+			"            </tr>\r",
+			"            <tr>\r",
+			"                <td>Bens</td>\r",
+			"                <td rowspan=\"2\">Obrigações</td>\r",
+			"            </tr>\r",
+			"            <tr>\r",
+			"                <td>Direitos</td>\r",
+			"            </tr>\r",
+			"        </table>\r",
+			"    <p class=\"legenda\">Fonte: Elaborado pela autora (2018).</p>"
+		],
+		"description": "recurso_table_FACIMED"
+	},
+	"recurso_accordion_FACIMED": {
+		"prefix": "recurso_accordion_FACIMED",
+		"body": [
+			" <div id=\"accordion1\" class=\"accordion\">\r",
+			"        <h3 title=\"Clique para abrir ou fechar\">Bens</h3>\r",
+			"            <div>\r",
+			"                <p>São os objetos que a empresa possui, tanto para uso e troca quanto para consumo. São divididos em tangíveis (existem fisicamente, por exemplo: veículos, máquinas, móveis) e intangíveis (não existem fisicamente, por exemplo: marcas e patentes, <i>softwares</i>).</p>\r",
+			"            </div>\r",
+			"        \r",
+			"        <h3 title=\"Clique para abrir ou fechar\">Direitos</h3>\r",
+			"            <div>\r",
+			"                <p>São representados por títulos e documentos (valores a receber ou a recuperar), por exemplo: duplicatas a receber, aluguéis a receber, nota fiscal/fatura/duplicata/cheque.</p>\r",
+			"            </div>\r",
+			"            \r",
+			"        <h3 title=\"Clique para abrir ou fechar\">Obrigações</h3>\r",
+			"            <div>\r",
+			"                <p>São contas a pagar ou a compensar nas transações com terceiros, por exemplo: duplicatas a pagar, salários a pagar, aluguéis a pagar.</p>\r",
+			"            </div>\r",
+			"        </div> "
+		],
+		"description": "recurso_accordion_FACIMED"
+	},
+	"referencia_link_FACIMED": {
+		"prefix": "referencia_link_FACIMED",
+		"body": [
+			" <p>BRASIL. <strong>Lei nº 6.404/76</strong>. Disponível em: &lt;<a href=\"http://www.planalto.gov.br/ccivil_03/LEIS/L6404consol.htm\" target=\"_blank\">http://www.planalto.gov.br/ccivil_03/LEIS/L6404consol.htm</a>&gt;. Acesso em: 9 nov. 2018.</p>"
+		],
+		"description": "referencia_link_FACIMED"
+	},
+	"abas_com_imagens_FACIMED": {
+		"prefix": "abas_com_imagens_FACIMED",
+		"body": [
+			"  <div class=\"abas-container\">\r",
+			"    <div class=\"abas\">\r",
+			"        <div id=\"abas\">\r",
+			"            <ul class=\"abas-menu\">\r",
+			"                <li><a href=\"#aba-1\" >xxx</a></li>\r",
+			"                <li><a href=\"#aba-2\" >xxx</a></li>\r",
+			"                <li><a href=\"#aba-3\" >xxx</a></li>\r",
+			"                <li><a href=\"#aba-4\" >xxx</a></li>\r",
+			"                <li><a href=\"#aba-5\" >xxx</a></li>\r",
+			"            </ul>\r",
+			"\r",
+			"            <div id=\"aba-1\" class=\"aba-elemento\">\r",
+			"                <p>xxx</p>\r",
+			"                <div class=\"imagem\">\r",
+			"                    <img src=\"img/aba1.jpg\" alt=\"\" style=\"max-width: 300px;\" />\r",
+			"                </div>\r",
+			"            </div>\r",
+			"\r",
+			"            <div id=\"aba-2\" class=\"aba-elemento\">\r",
+			"                <p>xxx</p>\r",
+			"                <div class=\"imagem\">\r",
+			"                    <img src=\"img/aba2.jpg\" alt=\"\" style=\"max-width: 450px;\" />\r",
+			"                </div>\r",
+			"            </div>\r",
+			"            \r",
+			"            <div id=\"aba-3\" class=\"aba-elemento\">\r",
+			"                <p>xxx</p>\r",
+			"                <div class=\"imagem\">\r",
+			"                    <img src=\"img/aba3.jpg\" alt=\"\" style=\"max-width: 450px;\" />\r",
+			"                </div>\r",
+			"            </div>\r",
+			"            \r",
+			"            <div id=\"aba-4\" class=\"aba-elemento\">\r",
+			"                <p>xxx</p>\r",
+			"                <div class=\"imagem\">\r",
+			"                    <img src=\"img/aba4.jpg\" alt=\"\" style=\"max-width: 450px;\" />\r",
+			"                </div>\r",
+			"            </div>\r",
+			"\r",
+			"            <div id=\"aba-5\" class=\"aba-elemento\">\r",
+			"             <p>xxx</p>\r",
+			"             <div class=\"imagem\">\r",
+			"                 <img src=\"img/aba5.jpg\" alt=\"\" style=\"max-width: 450px;\" />\r",
+			"             </div>\r",
+			"         </div>\r",
+			"\r",
+			"        </div>\r",
+			"    </div>\r",
+			"</div>"
+		],
+		"description": "abas_com_imagens_FACIMED"
+	},
+	"recurso_abas_FACIMED": {
+		"prefix": "recurso_abas_FACIMED",
+		"body": [
+			"\r",
+			"  <div class=\"abas-container\">\r",
+			"    <div class=\"abas\">\r",
+			"        <div id=\"abas\">\r",
+			"            <ul class=\"abas-menu\">\r",
+			"                <li><a href=\"#aba-1\" >xxx</a></li>\r",
+			"                <li><a href=\"#aba-2\" >xxx</a></li>\r",
+			"                <li><a href=\"#aba-3\" >xxx</a></li>\r",
+			"                <li><a href=\"#aba-4\" >xxx</a></li>\r",
+			"                <li><a href=\"#aba-5\" >xxx</a></li>\r",
+			"            </ul>\r",
+			"\r",
+			"            <div id=\"aba-1\" class=\"aba-elemento\">\r",
+			"                <p>xxx</p>\r",
+			"                \r",
+			"            </div>\r",
+			"\r",
+			"            <div id=\"aba-2\" class=\"aba-elemento\">\r",
+			"                <p>xxx</p>\r",
+			"              \r",
+			"            </div>\r",
+			"            \r",
+			"            <div id=\"aba-3\" class=\"aba-elemento\">\r",
+			"                <p>xxx</p>\r",
+			"                \r",
+			"            </div>\r",
+			"            \r",
+			"            <div id=\"aba-4\" class=\"aba-elemento\">\r",
+			"                <p>xxx</p>\r",
+			"                \r",
+			"            </div>\r",
+			"\r",
+			"            <div id=\"aba-5\" class=\"aba-elemento\">\r",
+			"             <p>xxx</p>\r",
+			"           \r",
+			"         </div>\r",
+			"\r",
+			"        </div>\r",
+			"    </div>\r",
+			"</div>"
+		],
+		"description": "recurso_abas_FACIMED"
+	},
+	"recurso_citacao_FACIMED": {
+		"prefix": "recurso_citacao_FACIMED",
+		"body": [
+			"  <ul style=\"list-style-type:none;\">\r",
+			"    <li>\r",
+			"        A Carta Magna reconheceu aos índios, no Artigo 231, \"sua organização social, costumes, línguas, crenças e tradições\", e no Artigo 210, § 2º, \"a utilização de suas línguas maternas e processos próprios de aprendizagem\". Ou seja, garantiu-lhes um ensino no idioma próprio, com processos pedagógicos que possibilitem aprender de acordo com sua cultura. As escolas indígenas que até então estavam vinculadas à Funai e, portanto, ao Ministério do Interior, em 1991 passam para o Ministério da Educação. A partir daí desencadeia-se um movimento forte de afirmação da educação escolar indígena, por meio de leis, de criação de setores específicos para a gestão dessa modalidade de escola e do envolvimento de lideranças e professores indígenas na condução desse processo. (2010, p.57). \r",
+			"    </li>\r",
+			"  </ul>"
+		],
+		"description": "recurso_citacao_FACIMED"
+	},
+	"recurso_circulo_FACIMED2": {
+		"prefix": "recurso_circulo_FACIMED2",
+		"body": [
+			"  <div class=\"slidewrap imagemlado\">\r",
+			"    <ul class=\"slider\">\r",
+			"        <!-- 1 item --> \r",
+			"        <li class=\"slide\">\r",
+			"            <img src=\"img/slide1.jpg\" alt=\"1\"/> \r",
+			"              <p>Ut scelerisque arcu nec purus varius, quis ullamcorper tellus sagittis. Maecenas commodo ipsum est, sed fermentum urna accumsan dictum. Phasellus et dictum turpis. Maecenas quis leo massa. Nunc quis rutrum est. Nunc pellentesque ut augue ut vestibulum. Ut ultricies pellentesque dignissim. Nullam pellentesque felis nec augue scelerisque cursus. </p>\r",
+			"          </li>\r",
+			"        <!-- 1 item --> \r",
+			"          <li class=\"slide\">                       \r",
+			"              <img src=\"img/slide2.jpg\" alt=\"1\"/> \r",
+			"              <p>Donec tortor nulla, viverra sed dolor et, facilisis molestie erat. Sed et pulvinar libero, interdum posuere lorem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur imperdiet iaculis malesuada. Duis pharetra id nisl at euismod. </p>\r",
+			"        </li>\r",
+			"       <li class=\"slide\">                       \r",
+			"              <img src=\"img/slide3.jpg\" alt=\"1\"/> \r",
+			"              <p> Maecenas commodo ipsum est, sed fermentum urna accumsan dictum. Phasellus et dictum turpis. Maecenas quis leo massa. Ut scelerisque arcu nec purus varius, quis ullamcorper tellus sagittis.</p>\r",
+			"        </li>\r",
+			"      </ul>\r",
+			"  </div>\r",
+			""
+		],
+		"description": "recurso_circulo_FACIMED2"
+	},
+	"recurso_reflita_FACIMED": {
+		"prefix": "recurso_reflita_FACIMED2",
+		"body": [
+			"  <a href=\"#popup-tela3\" class=\"efeito_fade fancybox reflita\"></a>\r",
+			" \r",
+			"   <div class=\"popup\" id=\"popup-tela3\">\r",
+			"     <h3>Reflita</h3>\r",
+			"     <p>\r",
+			"       TEXTEXTEXTEXTEXTEXT\r",
+			"     </p>\r",
+			"   </div>"
+		],
+		"description": "recurso_reflita_FACIMED"
+	},
+	"recurso_fique_atento_FACIMED": {
+		"prefix": "recurso_fique_atento_FACIMED",
+		"body": [
+			"<a href=\"#popup-tela3\" class=\"efeito_fade fancybox fiqueatento\"></a>\r",
+			" \r",
+			"   <div class=\"popup\" id=\"popup-tela3\">\r",
+			"     <h3>Fique Atento</h3>\r",
+			"     <p>\r",
+			"       TEXTEXTEXTEXTEXTEXT\r",
+			"     </p>\r",
+			"   </div>\r",
+			" "
+		],
+		"description": "recurso_fique_atento_FACIMED"
+	},
+	"recurso_pesquise_FACIMED": {
+		"prefix": "recurso_pesquise_FACIMED",
+		"body": [
+			"  <a href=\"#popup-tela3\" class=\"efeito_fade fancybox pesquise\"></a>\r",
+			" \r",
+			"   <div class=\"popup\" id=\"popup-tela3\">\r",
+			"     <h3>Pesquise</h3>\r",
+			"     <p>\r",
+			"       TEXTEXTEXTEXTEXTEXT\r",
+			"     </p>\r",
+			"   </div>"
+		],
+		"description": "recurso_pesquise_FACIMED"
+	},
+	"recurso_glossario_FACIMED": {
+		"prefix": "recurso_glossario_FACIMED",
+		"body": [
+			"<a href=\"#popup-tela3\" class=\"efeito_fade fancybox glossario\"></a>\r",
+			" \r",
+			"   <div class=\"popup\" id=\"popup-tela3\">\r",
+			"     <h3>Glossario</h3>\r",
+			"     <p>\r",
+			"       TEXTEXTEXTEXTEXTEXT\r",
+			"     </p>\r",
+			"   </div>\r",
+			" "
+		],
+		"description": "recurso_glossario_FACIMED"
+	},
+	"recurso_indicação_de_leitura_FACIMED": {
+		"prefix": "recurso_indicação_de_leitura_FACIMED",
+		"body": [
+			" <a href=\"#popup-tela3\" class=\"efeito_fade fancybox indicacao-de-leitura\"></a>\r",
+			" \r",
+			"   <div class=\"popup\" id=\"popup-tela3\">\r",
+			"     <h3>Indicação de leitura</h3>\r",
+			"     <p>\r",
+			"       TEXTEXTEXTEXTEXTEXT\r",
+			"     </p>\r",
+			"   </div>\r",
+			" "
+		],
+		"description": "recurso_indicação_de_leitura_FACIMED"
+	},
+	"recurso_midias_FACIMED": {
+		"prefix": "recurso_midias_FACIMED",
+		"body": [
+			"  <a href=\"#popup-tela3\" class=\"efeito_fade fancybox midias\"></a>\r",
+			" \r",
+			"   <div class=\"popup\" id=\"popup-tela3\">\r",
+			"     <h3>Midias</h3>\r",
+			"     <p>\r",
+			"       TEXTEXTEXTEXTEXTEXT\r",
+			"     </p>\r",
+			"   </div>\r",
+			" "
+		],
+		"description": "recurso_midias_FACIMED"
+	},
+	"recurso_resolução_problema_FACIMED": {
+		"prefix": "recurso_resolução_problema_FACIMED",
+		"body": [
+			" <a href=\"#popup-tela3\" class=\"efeito_fade fancybox resolucao-problema\"></a>\r",
+			" \r",
+			"   <div class=\"popup\" id=\"popup-tela3\">\r",
+			"     <h3>Resolução de problema</h3>\r",
+			"     <p>\r",
+			"       TEXTEXTEXTEXTEXTEXT\r",
+			"     </p>\r",
+			"   </div>\r",
+			" "
+		],
+		"description": "recurso_resolução_problema_FACIMED"
+	},
+	"recurso_tome_nota_FACIMED": {
+		"prefix": "recurso_tome_nota_FACIMED",
+		"body": [
+			"  <a href=\"#popup-tela3\" class=\"efeito_fade fancybox tomenota\"></a>\r",
+			" \r",
+			"   <div class=\"popup\" id=\"popup-tela3\">\r",
+			"     <h3>Tome Nota</h3>\r",
+			"     <p>\r",
+			"       TEXTEXTEXTEXTEXTEXT\r",
+			"     </p>\r",
+			"   </div>"
+		],
+		"description": "recurso_tome_nota_FACIMED"
+	}
+
+}
