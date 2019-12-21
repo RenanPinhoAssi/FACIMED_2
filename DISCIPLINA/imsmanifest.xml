@@ -6,8 +6,8 @@
     <organization identifier="ORG-DE6BD0920350E64A7397514C2C36590A" structure="hierarchical">
       <title>Planejamento Estratégico</title>
       <item identifier="ITEM-B4F5ABDEB4FCFD8868331431753C46F6" isvisible="true">
-        <title>Fundamentos da Estratégia</title>
-        <item identifier="ITEM-B00144E12BB6C91971A6B6D0AE19160C" isvisible="true" identifierref="RES-95FFF249E77A9730EAE2617A0C6D1BE5">
+        <title>Áreas funcionais da administração estratégica</title>
+        <item identifier="ITEM-DE69C358B7AA20A0A0415BF578E2195E" isvisible="true" identifierref="RES-95FFF249E77A9730EAE2617A0C6D1BE5">
           <title>Página interativa</title>
         </item>
       </item>
