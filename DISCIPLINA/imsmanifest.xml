@@ -4,10 +4,10 @@
 <manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="MANIFEST-BB4C6CDE5492BD9BECCEE74B6A1DC29B" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <organizations default="ORG-DE6BD0920350E64A7397514C2C36590A">
     <organization identifier="ORG-DE6BD0920350E64A7397514C2C36590A" structure="hierarchical">
-      <title>Planejamento Estratégico</title>
+      <title>Direito Tributário</title>
       <item identifier="ITEM-B4F5ABDEB4FCFD8868331431753C46F6" isvisible="true">
-        <title>Fundamentos da Estratégia</title>
-        <item identifier="ITEM-B00144E12BB6C91971A6B6D0AE19160C" isvisible="true" identifierref="RES-95FFF249E77A9730EAE2617A0C6D1BE5">
+        <title>Tributos</title>
+        <item identifier="ITEM-2E1E20CAC4F8851DDD45E909814DD286" isvisible="true" identifierref="RES-95FFF249E77A9730EAE2617A0C6D1BE5">
           <title>Página interativa</title>
         </item>
       </item>
